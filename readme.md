@@ -1,0 +1,4 @@
+ini
+hanya
+satu
+dua
